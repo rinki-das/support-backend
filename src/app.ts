@@ -8,7 +8,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://beautiful-hummingbird-6da801.netlify.app/",
+      "https://beautiful-hummingbird-6da801.netlify.app",
     ],
     credentials: true,
   })
